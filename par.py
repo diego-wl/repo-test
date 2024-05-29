@@ -1,3 +1,4 @@
+# Programa que identifica si un numero es par
 def es_par(num):
     return num % 2 == 0
 
